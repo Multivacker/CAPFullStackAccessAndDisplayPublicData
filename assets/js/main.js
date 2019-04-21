@@ -46,7 +46,7 @@ document.getElementById("myHeader").innerHTML =
     '<div class=\"container pt-3\">' +
     '<div class=\"row\">' +
     '<div class=\"col sm-2\">' +
-    '<a href=\"home.html\"><img src=\"https://i.postimg.cc/sxYS1DR7/TGIF-Logo.png\" class=\"float-left img-fluid\" style=\"width:180px;\"></a></div>' +
+    '<a href=\"index.html\"><img src=\"https://i.postimg.cc/sxYS1DR7/TGIF-Logo.png\" class=\"float-left img-fluid\" style=\"width:180px;\"></a></div>' +
     '<div class=\"col sm-8\">' +
     '<p></p>' +
     '</div>' +
@@ -60,7 +60,7 @@ document.getElementById("myNav").innerHTML =
     "<nav class=\"container navbar navbar-inverse text-dark bg-light border border-primary mt-3\">" +
     "<div class=\"container-fluid x-auto\" style=\"height:50px\">" +
     "<ul>" +
-    "<li class=\"active\" style=\"display: inline; margin-right: 20px;margin-left: 20px;\"><a href=\"home.html\"><b>Home</b></a></li>" +
+    "<li class=\"active\" style=\"display: inline; margin-right: 20px;margin-left: 20px;\"><a href=\"index.html\"><b>Home</b></a></li>" +
     "<li class=\"dropdown\" style=\"display: inline; margin-right: \"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\"><b>Congress 113</b><span class=\"caret\"></span></a>" +
     "<ul class=\"dropdown-menu\">" +
     "<li style=\"margin-left: 20px;\"><a href=\"house-data.html\"><b>House</b></a></li>" +
